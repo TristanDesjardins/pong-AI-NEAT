@@ -21,7 +21,7 @@ First generation :
 
 <br/>
 
-After just one generation, players are already better than you would ever be! :stuck_out_tongue:
+After just one generation, players are already better than you'll ever be! :stuck_out_tongue:
 
 <img src='https://user-images.githubusercontent.com/62900180/187650848-0e8fd93f-3dd1-4586-ad00-0784526c3705.gif' height="400">
 
