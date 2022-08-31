@@ -1,5 +1,5 @@
 # pong-AI-NEAT
-Pong AIs using Neuroevolution of augmenting topologies aka NEAT (using neat library and pygame)
+Pong AIs using Neuroevolution of augmenting topologies aka NEAT (with neat library and pygame)
 Project done in my free time as a challenge :blush: 
 
 ## General Idea 
