@@ -25,7 +25,6 @@ After just one generation, players are already better than you'll ever be! :stuc
 
 <img src='https://user-images.githubusercontent.com/62900180/187650848-0e8fd93f-3dd1-4586-ad00-0784526c3705.gif' height="400">
 
-<br/>
 
 ## Main files :
 - pontneat.py : to run NEAT algo and save best model 
