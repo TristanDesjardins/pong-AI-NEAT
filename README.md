@@ -1,6 +1,6 @@
 # pong-AI-NEAT
 Pong AIs using NEAT (Neuroevolution of augmenting topologies).
-Lil' project done in my free time as a challenge :blush: 
+Project done in my free time as a challenge :blush: 
 
 ## General Idea 
 Here's how I adapted NEAT for my case: 
