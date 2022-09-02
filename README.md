@@ -2,6 +2,12 @@
 Pong AIs using Neuroevolution of augmenting topologies aka NEAT (with neat library and pygame) \
 Project done in my free time as a challenge :blush: 
 
+## Preview 
+**training phase** <br/> AI vs. AI            |   <img src="https://user-images.githubusercontent.com/62900180/188200339-c6165305-17d7-4f1e-8640-089a623e577f.gif" width="500"/>
+:-------------------------:|:-------------------------:
+ **After training <br/> AI vs. AI** | <img src="https://user-images.githubusercontent.com/62900180/188200362-09725b05-5a96-4d21-97f6-175df65fdc23.gif" width="500"/>
+
+
 ## General Idea 
 Here's how I adapted NEAT for my case: 
   - We generate N pong players and associate them N randomly initialized neural networks
@@ -12,12 +18,6 @@ Here's how I adapted NEAT for my case:
 We repeat this process (called a generation) until players are good enough. 
 
 Check NEAT algo for more info. 
-
-## Preview 
-**training phase** <br/> AI vs. AI            |   <img src="https://user-images.githubusercontent.com/62900180/188200339-c6165305-17d7-4f1e-8640-089a623e577f.gif" width="500"/>
-:-------------------------:|:-------------------------:
- **After training <br/> AI vs. AI** | <img src="https://user-images.githubusercontent.com/62900180/188200362-09725b05-5a96-4d21-97f6-175df65fdc23.gif" width="500"/>
-
 
 ## Main files :
 - pontneat.py : to run NEAT algo and save best model 
