@@ -28,5 +28,7 @@ Check NEAT algo for more info.
 
 ## Installation 
 - Python 3.9.12
+- [pygame 2.1.2](https://www.pygame.org/news) : for the game engine 
+- [neat 0.4.1](https://neat-python.readthedocs.io/en/latest/installation.html) : for the AI 
 
 
