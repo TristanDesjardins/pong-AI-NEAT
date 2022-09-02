@@ -14,13 +14,10 @@ We repeat this process (called a generation) until players are good enough.
 Check NEAT algo for more info. 
 
 ## Preview 
-<div align="center">
-
-
 **training phase** <br/> AI vs. AI            |   <img src="https://user-images.githubusercontent.com/62900180/188200339-c6165305-17d7-4f1e-8640-089a623e577f.gif" width="500"/>
 :-------------------------:|:-------------------------:
  **After training <br/> AI vs. AI** | <img src="https://user-images.githubusercontent.com/62900180/188200362-09725b05-5a96-4d21-97f6-175df65fdc23.gif" width="500"/>
-</div>
+
 
 ## Main files :
 - pontneat.py : to run NEAT algo and save best model 
