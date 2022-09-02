@@ -1,4 +1,4 @@
-# Prong AI - NEAT genetic algorithm
+# Prong game AI - NEAT genetic algorithm
 Pong AIs using Neuroevolution of augmenting topologies aka NEAT (with neat library and pygame) \
 Project done in my free time as a challenge :blush: 
 
