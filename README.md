@@ -14,16 +14,9 @@ We repeat this process (called a generation) until players are good enough.
 Check NEAT algo for more info. 
 
 ## Preview 
-
-Just run 'pongneat.py' to see NEAT algo in action! :blush:
-First generation : 
-<img src='https://user-images.githubusercontent.com/62900180/187650832-4fc3fb0b-dc8f-4e9f-bbb5-a9b00ce1af38.gif' height="400">
-
-<br/>
-
-After just one generation, players are already better than you'll ever be! :stuck_out_tongue:
-
-<img src='https://user-images.githubusercontent.com/62900180/187650848-0e8fd93f-3dd1-4586-ad00-0784526c3705.gif' height="400">
+training phase             |  After training
+:-------------------------:|:-------------------------:
+![pong_training](https://user-images.githubusercontent.com/62900180/188200339-c6165305-17d7-4f1e-8640-089a623e577f.gif) |![pong_trained](https://user-images.githubusercontent.com/62900180/188200362-09725b05-5a96-4d21-97f6-175df65fdc23.gif)
 
 
 ## Main files :
